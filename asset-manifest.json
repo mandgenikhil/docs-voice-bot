@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0149b4f.chunk.css",
+    "main.js": "/static/js/main.8af08d67.chunk.js",
+    "main.js.map": "/static/js/main.8af08d67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da717fcc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da717fcc.js.map",
+    "static/js/2.594957f9.chunk.js": "/static/js/2.594957f9.chunk.js",
+    "static/js/2.594957f9.chunk.js.map": "/static/js/2.594957f9.chunk.js.map",
+    "static/js/3.01aea2c7.chunk.js": "/static/js/3.01aea2c7.chunk.js",
+    "static/js/3.01aea2c7.chunk.js.map": "/static/js/3.01aea2c7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d0149b4f.chunk.css.map": "/static/css/main.d0149b4f.chunk.css.map",
+    "static/js/2.594957f9.chunk.js.LICENSE.txt": "/static/js/2.594957f9.chunk.js.LICENSE.txt",
+    "static/media/Nikhil_Mandge.e640cd0a.jpeg": "/static/media/Nikhil_Mandge.e640cd0a.jpeg",
+    "static/media/VoiceBot.ede9dd0b.png": "/static/media/VoiceBot.ede9dd0b.png",
+    "static/media/ankita_logo.9818d944.jpeg": "/static/media/ankita_logo.9818d944.jpeg",
+    "static/media/index.css": "/static/media/bw_img.3d116777.jpg",
+    "static/media/gaurav_mulay.fb1568ab.jpeg": "/static/media/gaurav_mulay.fb1568ab.jpeg",
+    "static/media/pallavi_shirodkar.5caa4e46.jpeg": "/static/media/pallavi_shirodkar.5caa4e46.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da717fcc.js",
+    "static/js/2.594957f9.chunk.js",
+    "static/css/main.d0149b4f.chunk.css",
+    "static/js/main.8af08d67.chunk.js"
+  ]
+}
